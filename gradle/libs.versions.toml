@@ -9,7 +9,7 @@ java = "21"
 kotlinCoroutines = "1.9.0"
 
 ### Plugin depedency versions ###
-asciidoctorConvert = "4.0.3"
+asciidoctorConvert = "4.0.4"
 ktlint = "12.1.1"
 
 ### Spring Boot dependency versions ###
